@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://images5.alphacoders.com/135/thumb-1920-1351625.png"/ width="100%">
+  <img src="https://images3.alphacoders.com/135/thumb-1920-1351626.png"/ width="100%">
 </p>
 
 
-# 👩🏻‍💻 VERONIKA BOFF
+# 👩🏻‍💻 VERONIKA BOFF 
 
 **`Estudante de pedagogia e programação`**
 
@@ -101,12 +101,4 @@
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VERONIKABOFF&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-<p>
-    <img align="raght"
-      alt="veronika_persona" 
-      scr="https://www.canva.com/design/DAG3GR5CFwo/J40bdAPtI6AkvHWoGBzA9g/edit?utm_content=DAG3GR5CFwo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    </img>
-</p>  
-
 </p>
