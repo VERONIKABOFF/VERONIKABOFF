@@ -102,6 +102,11 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VERONIKABOFF&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  <img align="raght" alt="veronika_persona" scr="https://drive.google.com/file/d/1rFRrMNNc14y2hE_JDgtBccZvsrzaKufB/view?usp=drivesdk"></img>
+<div>
+    <img align="raght"
+      alt="veronika_persona" 
+      scr="https://www.canva.com/design/DAG3GR5CFwo/J40bdAPtI6AkvHWoGBzA9g/edit?utm_content=DAG3GR5CFwo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    </img>
+</div>     
 
 </p>
