@@ -101,8 +101,7 @@
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VERONIKABOFF&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-<div>
+
   <img align="raght" alt="veronika_persona" scr="https://drive.google.com/file/d/1bX_FnKnFBSUhA43LI-jewtJiNWS-4Pg_/view?usp=drivesd"></img>
-</div>
 
 </p>
