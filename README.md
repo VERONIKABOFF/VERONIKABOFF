@@ -105,7 +105,7 @@
 <p>
     <img align="raght"
       alt="veronika_persona" 
-      scr="https://www.canva.com/design/DAG3GR5CFwo/J40bdAPtI6AkvHWoGBzA9g/edit?utm_content=DAG3GR5CFwo&utm_campaign=designshare&utm_medium=link2&utm.gif">
+      scr="https://www.canva.com/design/DAG3GR5CFwo/J40bdAPtI6AkvHWoGBzA9g/edit?utm_content=DAG3GR5CFwo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     </img>
 </p>  
 
