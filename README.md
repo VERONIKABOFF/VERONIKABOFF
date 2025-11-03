@@ -62,17 +62,8 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=VERONIKABOFF&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VERONIKABOFF&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 </p>
 
-<div style = "display: inline_block"><br>
-  <img align = "right" width="200" alt = "Veronika" src = "https://i.pinimg.com/originals/7f/a5/72/7fa572c8e1c0adea5583285da8b08075.gif">
-      
+<div><br>
+  <br><img align = "right" alt = "Veronika" src = "https://media.tenor.com/Ih93KnUG6fYAAAAm/vocaloid-luka-megurine-luka.webp" width="200">      
 </div> 
